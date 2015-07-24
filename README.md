@@ -1,2 +1,3 @@
 # demo8
-sample project for test
+
+demo8 is a sample project
