@@ -1,3 +1,3 @@
 # demo8
 
-demo8 is a sample project
+demo8 was a sample project
